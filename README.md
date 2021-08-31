@@ -10,9 +10,6 @@
 ## [검색알고리즘](검색알고리즘/)
 ### [linearSearch(선형검색)](검색알고리즘/linearSearch.md)
 
-## [검색알고리즘]()
-
-
 
 
 ### [linearSearch(이진검색)](검색알고리즘/binarySearch.md)
