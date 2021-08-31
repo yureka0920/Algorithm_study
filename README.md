@@ -6,14 +6,14 @@
 
 문제의 소지가 되는 부분이 생길 경우, 문제소지의 부분은 삭제, 혹은 수정하도록 하겠습니다. 
 
-<<<<<<< HEAD
+
 ## [검색알고리즘](검색알고리즘/)
 ### [linearSearch(선형검색)](검색알고리즘/linearSearch.md)
 =======
 ## [검색알고리즘]()
 
 
->>>>>>> 70a5c03150fa1b31b4154059768f49d3282046a0
+
 
 ### [linearSearch(이진검색)](검색알고리즘/binarySearch.md)
 ### [linearSearch(해쉬법)](검색알고리즘/hashSearch.md)
