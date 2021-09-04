@@ -18,7 +18,7 @@
        - code/nerdchanii/검색알고리즘/(이진탐색/ 추가하실거면추가해도 무방)immigration.py 
        - code/nerdchanii/검색알고리즘/hash.py 
        
-3. 원 저장소인 nerdchanii/Algorithm_study(https://github.com/nerdchanii/Algorithm_study)에 PR요청하기
+3. 원 저장소인 [nerdchanii/Algorithm_study](https://github.com/nerdchanii/Algorithm_study) 에 PR요청하기
 
     - Reviewers에 자신의 코드리뷰어 추가하기(차후에 적용예정)
     - 1주차는 풀리퀘스트 **본문 상단**에 누가 리뷰해야하는지 써주기
