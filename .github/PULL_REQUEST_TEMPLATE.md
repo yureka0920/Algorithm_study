@@ -1,11 +1,9 @@
----
-name: 문제풀이후, PR용 템플릿
-about: 문제풀이후 PR하기 위한 템플릿입니다.
-title: "[PS]"
-labels: PS
-assignees: nerdchanii, vg-rlo
----
+## 푼 문제:
+### 문제: [문제이름](링크)
 
-reviewr :담당리뷰어이름을 남겨주세요!
+### 담당리뷰어
+-  reviewer :
 
-reviewers에 @vg-rlo 와 @nerdchanii를 추가해주세요
+### 특이사항
+
+
