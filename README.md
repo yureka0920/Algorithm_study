@@ -2,9 +2,13 @@
 
 >This repository for Keep going study Group. We study Algorithm, data Structure using python. 
 
-이 레포지토리는 **DO it: 자료구조와 함께 배우는 알고리즘 입문 python** 을 스터디하며, 정리한 저장소입니다.
+이 레포지토리는 ***[DO it: 자료구조와 함께 배우는 알고리즘 입문 python](https://github.com/easyIT/doit_dsalgo_with_python)*** 을 스터디하며, 정리한 저장소입니다.
 
-문제의 소지가 되는 부분이 생길 경우, 문제소지의 부분은 삭제, 혹은 수정하도록 하겠습니다. 
+이 저장소의 요약은 ["easyIT"]("https://github.com/easyIT)의 허락을 받고 진행했습니다.
+- [저작권허락 내용]("https://github.com/easysIT/doit_dsalgo_with_python/issues/2")
+
+문제의 소지가 되는 부분이 생길 경우, 문제소지의 부분을 즉시 삭제, 혹은 수정하도록 하겠습니다.
+
 #### [문제풀이 관련 안내사항](code/CODE_README.md "문제풀이 관련 안내사항")을 꼭 참고해주세요!
 
 ## [검색알고리즘](검색알고리즘/)
