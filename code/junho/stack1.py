@@ -1,6 +1,4 @@
 
-
-
 def stack1(string: str):
     
     stack=0;
@@ -12,14 +10,12 @@ def stack1(string: str):
         elif string[i]==')':
             stack=stack-1
             print(stack,i)
-            if(stack<0):
-                print('NO')
-                break;
-        if(i+1==len(string) and stack==0):
+        if(i==len(string)-1 and stack==0):
             print('YES')
-        elif(i+1==len(string) and stack!=0):
+        elif(i==len(string)-1 and stack!=0):
             print('NO')
-
+    if(stack<0):
+        print('NO')
      
 # stack1()          
 # # def main():
