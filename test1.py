@@ -1,7 +1,0 @@
-
-
-
-
-
-def printa:
-    print('a')
